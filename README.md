@@ -1,4 +1,5 @@
 # AcesKitchen
+
 > The AcesKitchen app is a Full-stack website to publish cooking recipes. Allowing to save ingridients, steps for making the dish and notes.
 
 ## Built With
@@ -6,11 +7,13 @@
 - Ruby on Rails
 - PostgreSQL
 
-## Prerequisites
+## Getting Started
+
+### Prerequisites
 
 If you haven't yet, you should first [set up Git.](https://docs.github.com/en/get-started/quickstart/set-up-git) Don't forget to [set up authentication to GitHub.com from Git](https://docs.github.com/en/get-started/quickstart/set-up-git#next-steps-authenticating-with-github-from-git) as well.
 
-## Usage
+### Setup
 
 - Clone the repository
   - Above the list of files, click **↓Code**
@@ -29,18 +32,18 @@ If you haven't yet, you should first [set up Git.](https://docs.github.com/en/ge
 
 👤 **J. Luis Arredondo**
 
-- GitHub: [@Retky](https://github.com/Retky "J. Luis Arredondo GitHub")
-- Twitter: [@RetkyFox](https://twitter.com/retkyFox "J. Luis Arredondo Twitter")
-- LinkedIn: [Retky](https://www.linkedin.com/in/Retky "J. Luis Arredondo LinkedIn")
+- GitHub: [@Retky](https://github.com/Retky 'J. Luis Arredondo GitHub')
+- Twitter: [@RetkyFox](https://twitter.com/retkyFox 'J. Luis Arredondo Twitter')
+- LinkedIn: [Retky](https://www.linkedin.com/in/Retky 'J. Luis Arredondo LinkedIn')
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to get in touch with any issues or suggestions.
 
-- 🐛 **Bug reports & issues:** Use [GitHub Issues](https://github.com/Retky/AcesKitchen/issues "Bugs & Issues")
-- 💡 **Suggestions:** Use [Github Discussions](https://github.com/Retky/AcesKitchen/discussions "Suggestions")
-- 🙋‍♀️ **General questions:** Use [Github Discussions](https://github.com/Retky/AcesKitchen/discussions "General Questions")
+- 🐛 **Bug reports & issues:** Use [GitHub Issues](https://github.com/Retky/AcesKitchen/issues 'Bugs & Issues')
+- 💡 **Suggestions:** Use [Github Discussions](https://github.com/Retky/AcesKitchen/discussions 'Suggestions')
+- 🙋‍♀️ **General questions:** Use [Github Discussions](https://github.com/Retky/AcesKitchen/discussions 'General Questions')
 
 ## Show your support
 
