@@ -10,6 +10,9 @@ gem "rails", "~> 7.0.3", ">= 7.0.3.1"
 gem 'webpacker'
 gem 'react-rails'
 
+# Rubocop for linting
+gem 'rubocop', '>= 1.0', '< 2.0'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
