@@ -1,9 +1,10 @@
-# AcesKitchen
+# Aces Kitchen
 
-> The AcesKitchen app is a Full-stack website to publish cooking recipes. Allowing to save ingridients, steps for making the dish and notes.
+> The AcesKitchen app is a Full-stack website to publish cooking recipes. Allowing to save ingredients, steps for making the dish and notes.
 
 ## Built With
 
+- React
 - Ruby on Rails
 - PostgreSQL
 
